@@ -4,6 +4,11 @@
 
 This Address Book Application is a basic java based program that allows users to manage their contacts. It provides the functionality to add, view, update, and delete contact information such as names, mobile numbers, and addresses.
 
+## Technology used
+
+- Java (OOPS)
+- Eclipse
+
 ## Features
 
 - **Add Contact:** Users can add new contacts to the address book by providing the name, mobile number, and address.
