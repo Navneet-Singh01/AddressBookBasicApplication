@@ -20,7 +20,7 @@ This Address Book Application is a basic java based program that allows users to
 
 ![screenshot](./screenshots/screenshot-1.png)
 
-### 2. For adding a contact, enter choice number "1" accoring to Adress book menu and enter name, mobile number and address of a person.
+### 2. For adding a contact, enter choice number "1" according to Adress book menu and enter name, mobile number and address of a person.
 
 ![screenshot](./screenshots/screenshot-2.png)
 
@@ -36,7 +36,7 @@ This Address Book Application is a basic java based program that allows users to
 
 ![screenshot](./screenshots/screenshot-5.png)
 
-### 6. For Deleting an existing contact, enter contact name to be delete, if this contact name exists in the Address book then contact will deleted successfully.
+### 6. For Deleting an existing contact, enter contact name to be delete, if this contact name exists in the Address book then contact will be deleted successfully.
 
 ![screenshot](./screenshots/screenshot-6.png)
 
@@ -50,4 +50,4 @@ This Address Book Application is a basic java based program that allows users to
 
 ## Author 
 
-Navneet Singh
+Navneet Singh (https://github.com/Navneet-Singh01)
